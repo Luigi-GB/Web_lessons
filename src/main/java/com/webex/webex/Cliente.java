@@ -22,5 +22,5 @@ public class Cliente {
     private String documento;
     private String logradouro;
     private String senha;
-
+    
 }
